@@ -116,6 +116,8 @@ ALTER TABLE `order_items`
 - In the `categories` table, there are no transitive dependencies.
 - In the `order_items` table, there are no transitive dependencies.
 
+3NF is shown in [client_orders_schema.png](https://github.com/CarpathianUA/goit-rdb-hw-02/blob/main/client_orders_schema.png), together with DB schema entities.
+
 ## Conclusion
 
 The database schema adheres to the requirements of 1NF, 2NF, and 3NF, ensuring that data is structured efficiently to avoid redundancy and maintain integrity.
